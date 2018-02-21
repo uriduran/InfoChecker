@@ -67,8 +67,7 @@ GOTO MENU
     ECHO Done!
     CALL :ECH
     sleep 1
-    GOTO MENU
-    PAUSE 
+GOTO MENU 
 
 
 
