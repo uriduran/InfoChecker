@@ -73,5 +73,5 @@ GOTO MENU
 
 ::Other functions cut down code reuse.
 :ECH
-ECHO.
-ECHO.
+    ECHO.
+    ECHO.
